@@ -1,0 +1,20 @@
+{
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "mode": "Theme Mode",
+  "title": "To Do List",
+  "dark": "Dark",
+  "light": "Light",
+  "settings": "Settings",
+  "addyourtask": "Add Your task",
+  "enterTitle": "Enter Your Task Title",
+  "enterdes": "Enter Your Task Description",
+  "selectTime": "Select Time",
+  "addTask": "Add Task",
+  "provideTitle": "You must provide task title",
+  "providedes": "You must provide task Description",
+  "titlecharacters": "your title must be at least 10 characters",
+  "descharacters": "your title must be at least 100 characters"
+
+}
